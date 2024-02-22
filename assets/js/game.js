@@ -15,6 +15,8 @@ step.src = "./assets/sounds/walk.mp3";
 let hit = new Audio();
 hit.src = "./assets/sounds/hit.mp3";
 
+
+
 let drink = new Audio();
 drink.src = "./assets/sounds/drinking.mp3";
 
