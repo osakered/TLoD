@@ -11,4 +11,6 @@ document.addEventListener('keydown', function(){
     blocks[4].style.zIndex = 1;
     draw();
     }
+
+    
 });
