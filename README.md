@@ -1,18 +1,25 @@
-# TLoD
+# TLoD (The Legend of Doomer)
 A game made during educational practice
 
 <h2>Another crooked game, nothing interesting</h2>
 
-Leave your comfort zone, find the keys and find out the secret of the neighbor's flat
+<em>Leave your comfort zone, find the keys and find out the secret of the neighbor's flat</em> 
+<br><br>
+GitHub Pages [available](https://osakered.github.io/TLoD/)
 
 <h2>Controls</h2>
 
-W A S D - moving <br>
-F - hit <br>
-E - bottle throw <br>
+<strong>WASD</strong> - Movement <br>
+<strong>E</strong> - Throw bottle<br>
+<strong>F</strong> - Hit <br>
 
-<h2>Links</h2>
 
-https://giventofly.github.io/pixelit/#tryit - Pixel images <br>
-https://removal.ai/ - Remove background from image <br>
-https://trim-audio-online.com/ - Crop audio online
+<h2>Used resources</h2>
+
+[Remove background from image](https://removal.ai/) <br>
+[Pixel Art from image](https://giventofly.github.io/pixelit/#tryit) <br>
+[Trim audio online](https://trim-audio-online.com/)
+
+<!---
+You shouldn't be here (>'-'<)
+-->
